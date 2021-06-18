@@ -1,0 +1,1 @@
+front end based basic dice game built using HTML CSS and basic js application.
